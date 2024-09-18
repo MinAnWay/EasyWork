@@ -1,0 +1,91 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4651328 */
+  src: url('iconfont.woff2?t=1723794130603') format('woff2'),
+       url('iconfont.woff?t=1723794130603') format('woff'),
+       url('iconfont.ttf?t=1723794130603') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-phone:before {
+  content: "\e63b";
+}
+
+.icon-jia:before {
+  content: "\e65b";
+}
+
+.icon-prev:before {
+  content: "\e659";
+}
+
+.icon-next:before {
+  content: "\e667";
+}
+
+.icon-jian:before {
+  content: "\e621";
+}
+
+.icon-down:before {
+  content: "\e6a8";
+}
+
+.icon-yanzheng:before {
+  content: "\e63d";
+}
+
+.icon-more:before {
+  content: "\e617";
+}
+
+.icon-app:before {
+  content: "\e9ef";
+}
+
+.icon-content:before {
+  content: "\e6a5";
+}
+
+.icon-guanbi:before {
+  content: "\e609";
+}
+
+.icon-home:before {
+  content: "\e867";
+}
+
+.icon-settings:before {
+  content: "\e706";
+}
+
+.icon-up:before {
+  content: "\e945";
+}
+
+.icon-password:before {
+  content: "\e65d";
+}
+
+.icon-user:before {
+  content: "\e61c";
+}
+
+.icon-download:before {
+  content: "\e66c";
+}
+
+.icon-upload:before {
+  content: "\e682";
+}
+
+.icon-lujing103:before {
+  content: "\e62e";
+}
+
